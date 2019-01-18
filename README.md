@@ -2,7 +2,8 @@
 Virtual Environment .yml files:
 
 For **Dragonn** also install genomelake-1,genomeflow,tf-dragonn from my forks
-
+module load cuda
+module load cudnn/5.1
 For **modisco**, pip install modisco
 
 For **tensorflow** environment on Sherlock:
