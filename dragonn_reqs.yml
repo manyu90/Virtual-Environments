@@ -103,5 +103,5 @@ dependencies:
   - webencodings==0.5.1
   - widgetsnbextension==3.3.0
   - xlrd==1.1.0
-prefix: /home/users/manyu/anaconda3/envs/dragonn
+prefix: /oak/stanford/groups/akundaje/manyu/anaconda3/envs/dragonn
 
